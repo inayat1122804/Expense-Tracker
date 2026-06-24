@@ -1,0 +1,11 @@
+** expenses Tracker ** 
+create an expenses Tracker where users can input their income and expenses, categorize them, and see a summary of their finances. Use local storage to save the data.
+
+** Tech Stack **
+- JavaScript 
+- HTML
+- CSS/ Custom CSS
+
+
+**** Design style ****
+- Glassmorphism Design style.
